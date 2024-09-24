@@ -1,0 +1,64 @@
+.background-images {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.background-images-img {
+  position: absolute;
+  width: 200px;
+  height: 100px;
+  z-index: 1;
+}
+
+.background-images-img:nth-last-child(-n + 2) {
+  height: 150px;
+}
+
+.color-background {
+  z-index: 0;
+  height: 140px;
+  opacity: 0.6;
+}
+
+.corner {
+  width: 150px;
+  height: 150px;
+}
+
+.top-left {
+  top: 0;
+  left: 0;
+}
+.top-right {
+  top: 0;
+  right: 0;
+}
+.center-left {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+.center-right {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+.bottom-left {
+  bottom: 0;
+  left: 0;
+}
+.bottom-right {
+  bottom: 0;
+  right: 0;
+}
+
+
+@media (max-width: 500px) {
+  .background-images {
+   opacity: 0.5;
+  }
+}
