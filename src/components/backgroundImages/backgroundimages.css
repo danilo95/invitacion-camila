@@ -56,9 +56,11 @@
   right: 0;
 }
 
-
 @media (max-width: 500px) {
-  .background-images {
+  .center-left {
    opacity: 0.5;
   }
+  .center-right {
+    opacity: 0.5;
+   }
 }
