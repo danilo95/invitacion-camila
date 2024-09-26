@@ -46,3 +46,12 @@
       font-size: 50px; 
     }
   }
+
+  @media (max-width: 389px) {
+    .main-text {
+      font-size: 22px; 
+    }
+    .birthday-text {
+      font-size: 40px;
+    }
+  }
