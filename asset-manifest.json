@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/invitacion-camila/static/css/main.173c3c6e.css",
-    "main.js": "/invitacion-camila/static/js/main.01a660db.js",
+    "main.js": "/invitacion-camila/static/js/main.aa99537e.js",
     "static/js/453.e708cb31.chunk.js": "/invitacion-camila/static/js/453.e708cb31.chunk.js",
     "static/media/bg04.png": "/invitacion-camila/static/media/bg04.1aff63c99cc088a77ddc.png",
     "static/media/bg03.png": "/invitacion-camila/static/media/bg03.876247dd74d8f066d1b6.png",
@@ -11,11 +11,11 @@
     "static/media/bg06.png": "/invitacion-camila/static/media/bg06.29132bd7605ac685a315.png",
     "index.html": "/invitacion-camila/index.html",
     "main.173c3c6e.css.map": "/invitacion-camila/static/css/main.173c3c6e.css.map",
-    "main.01a660db.js.map": "/invitacion-camila/static/js/main.01a660db.js.map",
+    "main.aa99537e.js.map": "/invitacion-camila/static/js/main.aa99537e.js.map",
     "453.e708cb31.chunk.js.map": "/invitacion-camila/static/js/453.e708cb31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.173c3c6e.css",
-    "static/js/main.01a660db.js"
+    "static/js/main.aa99537e.js"
   ]
 }
