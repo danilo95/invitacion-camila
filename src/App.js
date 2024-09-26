@@ -36,7 +36,7 @@ function App() {
           <Day day="01" month="Diciembre" />
           <BorderedText text="2:00 P.M." />
         </div>
-        <Direction direction="Residencial villas de pamplona, Quezaltepeque, la libertad, casa comunal, en el parque" />
+        <Direction direction="Residencial Villas de Pamplona, Quezaltepeque, La Libertad, Casa Club." />
         <Controls />
       </div>
       </Animated>
