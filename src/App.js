@@ -32,8 +32,8 @@ function App() {
       <div className="content">
         <MainContent />
         <div className="day-content">
-          <BorderedText text="Domingo" />
-          <Day day="01" month="Diciembre" />
+          <BorderedText text="Sabado" />
+          <Day day="30" month="Noviembre" />
           <BorderedText text="3:00 P.M." />
         </div>
         <Direction direction="Residencial Villas de Pamplona, Quezaltepeque, La Libertad, Casa Club." />
